@@ -479,11 +479,11 @@
         <mxCell id="O-YqcVD7CHNR0NC_ekFy-289" value="Create a Semantic Model with Datasource" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="700" y="3677.5" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="O-YqcVD7CHNR0NC_ekFy-291" value="TOM：&lt;br&gt;&amp;nbsp;upload DW date set schedule and data" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="O-YqcVD7CHNR0NC_ekFy-291" value="TOM：&lt;br&gt;&amp;nbsp;upload DW date set" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="890" y="3617.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O-YqcVD7CHNR0NC_ekFy-296" value="Data lake like(sas key)：&lt;br&gt;&amp;nbsp;create a datasource with data lake like in the PowerBI Semantic Model" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="890" y="3690" width="150" height="70" as="geometry" />
+          <mxGeometry x="900" y="3690" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
