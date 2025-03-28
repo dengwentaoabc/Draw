@@ -112,10 +112,10 @@
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="-930" width="630" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-55" value="Data Workbench" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-55" value="Data Workbench" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-290" y="-930" width="315" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-56" value="PowerBI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-56" value="PowerBI" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="25" y="-930" width="315" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -164,10 +164,10 @@
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="-945" width="630" height="985" as="geometry" />
         </mxCell>
-        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-74" value="Data Workbench" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-74" value="Data Workbench" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="770" y="-945" width="315" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-75" value="PowerBI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-75" value="PowerBI" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1085" y="-945" width="315" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
