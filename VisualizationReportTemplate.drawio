@@ -151,7 +151,12 @@
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-64" target="4VvuzWiQJ0vmVFO6Ko2L-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-64" value="Build a Sales Report Template in Template Workspace" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-121" value="Report Designer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4VvuzWiQJ0vmVFO6Ko2L-119">
+          <mxGeometry x="-0.1293" y="-2" relative="1" as="geometry">
+            <mxPoint x="15" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-64" value="Build a Sales Report Template via Report Designer in Template Workspace" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-198.25" y="-420" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-71" target="4VvuzWiQJ0vmVFO6Ko2L-88">
