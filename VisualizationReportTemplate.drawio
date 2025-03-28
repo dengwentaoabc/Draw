@@ -236,7 +236,7 @@
           <mxGeometry x="480" y="-640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-92" value="the relationship between the Schema and the Report template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-510" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="-530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-94" value="We got three things" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="475" y="-830" width="130" height="30" as="geometry" />
