@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="-930" width="630" height="690" as="geometry" />
+          <mxGeometry x="-290" y="-930" width="630" height="890" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-55" value="Data Workbench" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-290" y="-930" width="315" height="60" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="25" y="-930" width="315" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="-870" width="315" height="630" as="geometry" />
+          <mxGeometry x="-290" y="-870" width="315" height="830" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-59" target="4VvuzWiQJ0vmVFO6Ko2L-60">
           <mxGeometry relative="1" as="geometry" />
@@ -138,28 +138,27 @@
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-60" value="Make a Sales Schema" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-200.75" y="-630" width="137.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-62" target="4VvuzWiQJ0vmVFO6Ko2L-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-96" value="Report designer POC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4VvuzWiQJ0vmVFO6Ko2L-65">
-          <mxGeometry x="-0.175" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-62" target="4VvuzWiQJ0vmVFO6Ko2L-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="-500" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-62" value="Build a Semantic Model with the Sales Schema in Template Workspace" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="-630" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-64" target="4VvuzWiQJ0vmVFO6Ko2L-71">
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-64" target="4VvuzWiQJ0vmVFO6Ko2L-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-64" value="Build a Sales Report Template in Template Workspace" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="97.5" y="-490" width="135" height="60" as="geometry" />
+          <mxGeometry x="-198.25" y="-420" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-71" target="4VvuzWiQJ0vmVFO6Ko2L-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-71" value="Save the Report Template ID, Name" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-192.5" y="-490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-192.5" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="-945" width="630" height="985" as="geometry" />
@@ -207,7 +206,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-84" value="New Sales Report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-84" value="New Sales Report in Maritime Workspace" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1152.82" y="-430" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-85" target="4VvuzWiQJ0vmVFO6Ko2L-105">
@@ -223,7 +222,7 @@
           <mxGeometry x="912.5" y="-845" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-88" value="Make a relationship between the Schema and the Report Template&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-192.5" y="-350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-192.5" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-90" value="Sales Schema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-750" width="120" height="60" as="geometry" />
@@ -261,6 +260,11 @@
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-105" target="4VvuzWiQJ0vmVFO6Ko2L-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-112" value="PowerBI Rest API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4VvuzWiQJ0vmVFO6Ko2L-109">
+          <mxGeometry x="-0.5511" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-105" target="4VvuzWiQJ0vmVFO6Ko2L-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -269,6 +273,22 @@
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-110" value="Show the new report to the user" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="876.56" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-115" target="4VvuzWiQJ0vmVFO6Ko2L-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-115" value="Save the new Semantic Model info ID, Name" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-188.2500000000001" y="-530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-118" target="4VvuzWiQJ0vmVFO6Ko2L-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="-270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-118" value="Sales Report Template in Template Workspace" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
