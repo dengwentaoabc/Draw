@@ -124,7 +124,7 @@
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-59" target="4VvuzWiQJ0vmVFO6Ko2L-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-59" value="Build a Report Template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-59" value="Build a Sales Report Template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-201.25" y="-730" width="137.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VvuzWiQJ0vmVFO6Ko2L-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4VvuzWiQJ0vmVFO6Ko2L-60" target="4VvuzWiQJ0vmVFO6Ko2L-62">
