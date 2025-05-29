@@ -407,7 +407,7 @@
           <mxGeometry x="2259.25" y="-710" width="137.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C0ejFrqRZWfPWig6hVYl-1" value="GetSaSToken" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="-590" width="137.5" height="60" as="geometry" />
+          <mxGeometry x="1930" y="-600" width="137.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C0ejFrqRZWfPWig6hVYl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0ejFrqRZWfPWig6hVYl-2" target="fWIJ1BtDUUWNR3JqNvnb-11">
           <mxGeometry relative="1" as="geometry" />
