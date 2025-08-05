@@ -1,9 +1,214 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="WksLgGzuyehjq9d-efhy">
-    <mxGraphModel>
+    <mxGraphModel dx="1296" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#828282;fillColor=none;arcSize=3;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-10.000000000000057" width="1460" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;arcSize=4;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="856.3" width="260" height="626.76" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#97D077;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="886.06" width="1220" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-4" value="" style="group;rounded=1;arcSize=2;strokeWidth=2;dashed=1;strokeColor=#3399FF;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" y="803.06" width="1320" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=11;fillColor=none;strokeColor=#97D077;strokeWidth=2;" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="50" y="361" width="1220" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;arcSize=4;fillColor=none;" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="150.24" y="333" width="499.76" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-7" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Order Resource Group&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;container=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;fontColor=default;fontStyle=0" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="899.9985867895547" y="29.99988414432307" width="38.56666666666667" height="36.300000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-8" value="Order App Service" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;container=0;" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="789.9951300932744" y="87.24" width="49.47" height="49.47" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-9" value="Storage Account" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;container=0;" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="269.99742268041234" y="376.78" width="57.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-10" value="Service Bus" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Service_Bus.svg;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="180.00195876288663" y="376.78" width="49.22" height="49.22" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="7zCMR_ArBEtUpEVLCaTa-4" source="7zCMR_ArBEtUpEVLCaTa-12" target="7zCMR_ArBEtUpEVLCaTa-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-12" value="Key Vault" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;container=0;" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="792.8970236115731" y="371.3428358208956" width="46.56716417910447" height="46.56716417910447" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-13" value="Spoke-Vnet" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;fillColor=#EBEBEB;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;textShadow=0;horizontal=1;container=0;" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="1267.42" y="-17.569999999999993" width="52.58" height="31.39" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-14" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Common Resource Group&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;container=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;fontColor=default;fontStyle=0" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="580" y="320" width="38.56666666666667" height="36.300000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-15" value="Redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="360" y="374.39" width="64.29" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-16" value="Log Analytics Workspace" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="480" y="376.16999999999996" width="52.22" height="52.22" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-17" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Product Resource Group&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;container=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;fontColor=default;fontStyle=0" vertex="1" parent="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry x="1194.9985867895548" y="30" width="38.56666666666667" height="36.300000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=none;arcSize=5;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="458.05999999999995" width="630" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-19" value="VoA 2.0 HUB" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;fillColor=#EBEBEB;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;textShadow=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="1597" y="442.05999999999995" width="53.5" height="31.94" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-20" value="Load Balance" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Load_Balancers.svg;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="503.05999999999995" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-21" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;F5&lt;/span&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.firewall" vertex="1" parent="1">
+          <mxGeometry x="1272" y="588.06" width="50" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-22" value="DNV Network" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;fillColor=#EBEBEB;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;textShadow=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="1597" y="366.05999999999995" width="53.5" height="31.94" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-23" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;Front Tier&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;fillColor=#EBEBEB;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;textShadow=0;horizontal=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="863.0598295800364" width="48.86322580645162" height="25.170322580645163" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-24" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;strokeColor=#97D077;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1026.06" width="1220" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-25" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;Middle Tier&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;fillColor=#EBEBEB;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;textShadow=0;horizontal=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1003.0598295800364" width="48.86322580645162" height="25.170322580645163" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-26" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;Back Tier&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;fillColor=#EBEBEB;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;textShadow=0;horizontal=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1142.0598295800364" width="48.86322580645162" height="25.170322580645163" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;curved=0;" edge="1" parent="1" source="7zCMR_ArBEtUpEVLCaTa-29" target="7zCMR_ArBEtUpEVLCaTa-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1154" y="570.06" as="sourcePoint" />
+            <mxPoint x="1155" y="890.06" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1229" y="903.06" />
+              <mxPoint x="1240" y="903.06" />
+              <mxPoint x="1240" y="911.06" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="7zCMR_ArBEtUpEVLCaTa-20" target="7zCMR_ArBEtUpEVLCaTa-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="583.06" as="sourcePoint" />
+            <mxPoint x="1130" y="918.06" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-29" value="Route Table" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1207.88" y="773.06" width="42.12" height="40.81" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;curved=0;strokeColor=#9C9C9C;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360.53" y="373.05999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1330.53" y="915.06" />
+              <mxPoint x="1330.53" y="373.05999999999995" />
+            </Array>
+            <mxPoint x="1309.9951300932742" y="915.06" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;curved=0;" edge="1" parent="1" target="7zCMR_ArBEtUpEVLCaTa-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1296" y="324.05999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-32" value="Application Insight" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="1287.08" y="1373.06" width="34.92" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-33" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;arcSize=4;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="856.3" width="260" height="626.76" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-34" value="Product App Service" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1564.9951300932744" y="890.300115855677" width="49.47" height="49.47" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="7zCMR_ArBEtUpEVLCaTa-36" target="7zCMR_ArBEtUpEVLCaTa-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-36" value="Key Vault" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1567.897023611573" y="1174.4029516765725" width="46.56716417910447" height="46.56716417910447" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-37" value="Application Insight" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="1572.27" y="1379.830115855677" width="34.92" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-38" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;arcSize=4;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1353.06" width="500" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-39" value="Application Insight" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="902.54" y="1379.83" width="34.92" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-40" value="Function App" style="image;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;container=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1383.07" width="53.63" height="43.53" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-41" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Function Resource Group&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;container=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;fontColor=default;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1353.06" width="38.56666666666667" height="36.300000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;curved=0;exitX=0.579;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7zCMR_ArBEtUpEVLCaTa-4" target="7zCMR_ArBEtUpEVLCaTa-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1279.46" y="803.06" as="sourcePoint" />
+            <mxPoint x="1319.46" y="900.06" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="805.06" />
+              <mxPoint x="1280" y="793.06" />
+              <mxPoint x="1291" y="793.06" />
+              <mxPoint x="1291" y="783.06" />
+              <mxPoint x="1590" y="783.06" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;curved=0;strokeColor=#9C9C9C;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="373.05999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1620" y="915.06" />
+              <mxPoint x="1620" y="553.06" />
+              <mxPoint x="1510" y="553.06" />
+              <mxPoint x="1510" y="373.05999999999995" />
+            </Array>
+            <mxPoint x="1614.47" y="915.06" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=none;arcSize=5;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="458.05999999999995" width="430" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-45" value="&lt;b style=&quot;text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;DevOps&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="653.46" y="289.99999999999994" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-46" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="742.96" y="528.06" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-47" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses.svg;" vertex="1" parent="1">
+          <mxGeometry x="592" y="540.06" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Public IP Address&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="592.06" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-49" value="&lt;b&gt;gssit-agent-windows&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="717.46" y="592.06" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.465;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7zCMR_ArBEtUpEVLCaTa-45" target="7zCMR_ArBEtUpEVLCaTa-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.267;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7zCMR_ArBEtUpEVLCaTa-44" target="7zCMR_ArBEtUpEVLCaTa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-52" value="DNV Network" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;fillColor=#EBEBEB;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;textShadow=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="1781" y="757" width="53.5" height="31.94" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-53" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="296.94" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-54" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;User&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="296.94" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-55" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="296.94" width="47.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
