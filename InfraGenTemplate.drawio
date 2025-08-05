@@ -197,6 +197,15 @@
         <mxCell id="7zCMR_ArBEtUpEVLCaTa-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.267;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7zCMR_ArBEtUpEVLCaTa-44" target="7zCMR_ArBEtUpEVLCaTa-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-57" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="290" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-58" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;User&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="290" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7zCMR_ArBEtUpEVLCaTa-59" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="290" width="47.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
