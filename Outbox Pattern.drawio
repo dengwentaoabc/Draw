@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1100" width="1120" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--26" value="Database" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1300" width="550" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="oOS5ts-bB3h-v3kxl6v--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="420" width="1000" height="580" as="geometry" />
+          <mxGeometry x="-90" y="420" width="1000" height="450" as="geometry" />
         </mxCell>
         <mxCell id="oOS5ts-bB3h-v3kxl6v--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oOS5ts-bB3h-v3kxl6v--2" target="oOS5ts-bB3h-v3kxl6v--3">
           <mxGeometry relative="1" as="geometry" />
@@ -18,9 +24,10 @@
         <mxCell id="oOS5ts-bB3h-v3kxl6v--2" value="Order request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oOS5ts-bB3h-v3kxl6v--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oOS5ts-bB3h-v3kxl6v--10" target="oOS5ts-bB3h-v3kxl6v--4">
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oOS5ts-bB3h-v3kxl6v--10" target="oOS5ts-bB3h-v3kxl6v--36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="770" as="sourcePoint" />
+            <mxPoint x="650" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oOS5ts-bB3h-v3kxl6v--7" value="Event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oOS5ts-bB3h-v3kxl6v--6">
@@ -34,10 +41,7 @@
         <mxCell id="oOS5ts-bB3h-v3kxl6v--3" value="Order Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oOS5ts-bB3h-v3kxl6v--4" value="Storage Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="680" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oOS5ts-bB3h-v3kxl6v--10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="665" width="450" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oOS5ts-bB3h-v3kxl6v--11" value="Update DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -45,6 +49,64 @@
         </mxCell>
         <mxCell id="oOS5ts-bB3h-v3kxl6v--12" value="Send Event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="695" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oOS5ts-bB3h-v3kxl6v--17" target="oOS5ts-bB3h-v3kxl6v--21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--16" value="Http request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oOS5ts-bB3h-v3kxl6v--15">
+          <mxGeometry x="0.1819" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--17" value="Order request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oOS5ts-bB3h-v3kxl6v--21" target="oOS5ts-bB3h-v3kxl6v--23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--21" value="Order Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--22" value="Storage Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--23" value="&lt;div style=&quot;&quot;&gt;Transaction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="1345" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--24" value="Update DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1375" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--25" value="Insert Event To Outbox Table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1375" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oOS5ts-bB3h-v3kxl6v--27" target="oOS5ts-bB3h-v3kxl6v--25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--29" value="Read Outbox Table" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oOS5ts-bB3h-v3kxl6v--28">
+          <mxGeometry x="-0.344" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oOS5ts-bB3h-v3kxl6v--27" target="oOS5ts-bB3h-v3kxl6v--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--27" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Message Relay&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oOS5ts-bB3h-v3kxl6v--30" target="oOS5ts-bB3h-v3kxl6v--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--30" value="Message broker" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--34" value="Storage Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oOS5ts-bB3h-v3kxl6v--36" target="oOS5ts-bB3h-v3kxl6v--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oOS5ts-bB3h-v3kxl6v--36" value="Message broker" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
