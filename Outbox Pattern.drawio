@@ -68,7 +68,7 @@
           <mxGeometry x="205" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oOS5ts-bB3h-v3kxl6v--22" value="Storage Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1210" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oOS5ts-bB3h-v3kxl6v--23" value="&lt;div style=&quot;&quot;&gt;Transaction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="1345" width="450" height="90" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry x="850" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oOS5ts-bB3h-v3kxl6v--34" value="Storage Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oOS5ts-bB3h-v3kxl6v--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oOS5ts-bB3h-v3kxl6v--36" target="oOS5ts-bB3h-v3kxl6v--34">
           <mxGeometry relative="1" as="geometry" />
