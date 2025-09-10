@@ -137,7 +137,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lb5H_JjfW28el9cgxgro-80" value="Create the Datasource connection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1390.005" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1388.265" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lb5H_JjfW28el9cgxgro-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-82" target="lb5H_JjfW28el9cgxgro-93">
           <mxGeometry relative="1" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="1098.26" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lb5H_JjfW28el9cgxgro-95" value="Save report info" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1098" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lb5H_JjfW28el9cgxgro-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1900" y="380" width="960" height="930" as="geometry" />
