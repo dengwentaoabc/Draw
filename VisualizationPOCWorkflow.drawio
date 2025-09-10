@@ -127,54 +127,6 @@
         <mxCell id="lb5H_JjfW28el9cgxgro-51" value="Done" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-63" target="lb5H_JjfW28el9cgxgro-75">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-63" value="Build a Datasource" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1352.35" y="1540" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-66" target="lb5H_JjfW28el9cgxgro-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-65" value="Report editor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lb5H_JjfW28el9cgxgro-64">
-          <mxGeometry x="-0.1293" y="-2" relative="1" as="geometry">
-            <mxPoint x="15" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-66" value="Build a Sales Report Template via Report editor online" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1059.1" y="1745" width="135" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-67" value="Save the Report ID, Name" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1064.85" y="1835" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-69" target="lb5H_JjfW28el9cgxgro-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-69" value="Save the new Semantic Model info ID, Name" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1064.85" y="1637.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-71" target="lb5H_JjfW28el9cgxgro-67">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1422.85" y="1865" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-71" value="Save Sales Report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1362.35" y="1745" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-73" target="lb5H_JjfW28el9cgxgro-63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-73" value="Get DataSets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1061.6" y="1540" width="137.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-75" target="lb5H_JjfW28el9cgxgro-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-75" value="Build a Semantic Model with the Sales Schema" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1352.35" y="1637.5" width="150" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="lb5H_JjfW28el9cgxgro-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-77" target="lb5H_JjfW28el9cgxgro-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -184,58 +136,128 @@
         <mxCell id="lb5H_JjfW28el9cgxgro-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-80" target="lb5H_JjfW28el9cgxgro-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-80" value="Create the Datasource and make the connection with Databricks" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lb5H_JjfW28el9cgxgro-80" value="Create the Datasource connection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390.005" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lb5H_JjfW28el9cgxgro-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-82" target="lb5H_JjfW28el9cgxgro-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-82" value="Save the Semantic Model" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lb5H_JjfW28el9cgxgro-82" value="Create the Semantic Model" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1388.265" y="1020" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-86">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1792.34" y="2027.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-85" value="Report editor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lb5H_JjfW28el9cgxgro-84">
-          <mxGeometry x="-0.1293" y="-2" relative="1" as="geometry">
-            <mxPoint x="15" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-86" value="Build a Sales Report Template via Report editor online" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1489.09" y="1997.5" width="135" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-87" value="Save the Report ID, Name" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1494.84" y="2087.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-89" target="lb5H_JjfW28el9cgxgro-86">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-89" value="Save the new Semantic Model info ID, Name" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1494.84" y="1890" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lb5H_JjfW28el9cgxgro-87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1852.84" y="2117.5" />
-            </Array>
-            <mxPoint x="1852.39" y="2057.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-91" value="Save Sales Report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1813.25" y="1697.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lb5H_JjfW28el9cgxgro-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="lb5H_JjfW28el9cgxgro-89">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1782.08" y="1920.5" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="lb5H_JjfW28el9cgxgro-93" value="Save the new Semantic Model info ID, Name" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1098.26" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lb5H_JjfW28el9cgxgro-95" value="Save report info" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="380" width="960" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-98" value="Visualization POC" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2220" y="380" width="315" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-99" value="PowerBI Service" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2535" y="380" width="325" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="440" width="315" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-103" target="lb5H_JjfW28el9cgxgro-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-103" target="lb5H_JjfW28el9cgxgro-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-103" value="Select one or multiple Schemas&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2309.25" y="630" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-121" target="lb5H_JjfW28el9cgxgro-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2459.24" y="1035" as="sourcePoint" />
+            <mxPoint x="2604.99" y="1034.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-105" value="Report editor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lb5H_JjfW28el9cgxgro-104">
+          <mxGeometry x="-0.1293" y="-2" relative="1" as="geometry">
+            <mxPoint x="15" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-106" value="Save Sales Report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2614.99" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-107" value="Data Workbench" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1900" y="380" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-108" value="GetSchemas" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1994.88" y="630" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-109" value="GetDataSets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1994.88" y="810" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-111" target="lb5H_JjfW28el9cgxgro-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-111" value="Build a Sales Report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2317.5" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-113" target="lb5H_JjfW28el9cgxgro-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-113" value="Make the relationship between multiple Schemas" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2309.25" y="720" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-117" target="lb5H_JjfW28el9cgxgro-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="lb5H_JjfW28el9cgxgro-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2377.54" y="1080" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-117" target="lb5H_JjfW28el9cgxgro-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-117" value="Select DataSets that filter by Schemas of DataModel" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2312.88" y="810" width="130.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-119" target="lb5H_JjfW28el9cgxgro-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-119" value="Make a DataModel that include multiple Schemas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2317.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-121" target="lb5H_JjfW28el9cgxgro-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-121" value="Build Report via PowerBI Editor online" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2317.495" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-123" target="lb5H_JjfW28el9cgxgro-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-123" value="Build the Semantic Model" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2318.255" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-127" target="lb5H_JjfW28el9cgxgro-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-127" value="Create the Semantic Model" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2607.505" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-128" value="Save the new Semantic Model info ID, Name" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2317.5" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-129" value="Save report info" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2319.24" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lb5H_JjfW28el9cgxgro-132" target="lb5H_JjfW28el9cgxgro-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2670.005" y="1015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lb5H_JjfW28el9cgxgro-132" value="Create Datasource&amp;nbsp; connection to ADLS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2608.2650000000003" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
