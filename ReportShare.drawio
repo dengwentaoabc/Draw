@@ -190,13 +190,13 @@
         <mxCell id="XIFVUQyBqXHINym3d4Wq-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-69" target="XIFVUQyBqXHINym3d4Wq-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XIFVUQyBqXHINym3d4Wq-69" value="Report Developer need building datasets for the report that datasets is filter by report schemas&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-69" value="Report Developer need banding datasets for the report that datasets is filter by report schemas&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-405.75" y="920" width="142.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XIFVUQyBqXHINym3d4Wq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-71" target="XIFVUQyBqXHINym3d4Wq-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XIFVUQyBqXHINym3d4Wq-71" value="View Report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-71" value="Save the banding and View Report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-584.99" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XIFVUQyBqXHINym3d4Wq-73" value="Done" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
