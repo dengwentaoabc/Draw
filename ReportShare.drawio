@@ -1,9 +1,207 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Page-1" id="DSRByoqaYzFSQm_f9Hfl">
-    <mxGraphModel>
+    <mxGraphModel dx="2916" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="1270" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-2" value="Visualization Service" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="440" width="315" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-3" value="PowerBI Service" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="975" y="440" width="315" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="500" width="315" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-7" target="XIFVUQyBqXHINym3d4Wq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-7" target="XIFVUQyBqXHINym3d4Wq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-7" value="Select one or multiple Schemas&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="749.25" y="1090" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-11" value="Data Catalog Service" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-12" value="GetSchemas" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434.88" y="1090" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-13" value="GetDataSets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434.88" y="1270" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-15" target="XIFVUQyBqXHINym3d4Wq-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-15" value="Share Report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="757.5" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-17" target="XIFVUQyBqXHINym3d4Wq-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-17" value="Make the relationship between multiple Schemas" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="749.25" y="1180" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-21" target="XIFVUQyBqXHINym3d4Wq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-21" target="XIFVUQyBqXHINym3d4Wq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-21" value="Select DataSets that filter by Schemas of DataModel" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="752.8800000000001" y="1270" width="130.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-23" target="XIFVUQyBqXHINym3d4Wq-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-23" value="Select target workspace, and whether share datasource with the report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="727.01" y="610" width="182.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-25" value="Build Report via PowerBI Editor online" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="758.2550000000001" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-27" value="Build the Semantic Model" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="758.2550000000001" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-32" value="Save the new Semantic Model info ID, Name" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="758.26" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-33" value="Save report info" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="758" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="975" y="500" width="315" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-35" value="Databricks" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1290" y="440" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-10" value="Save Sales Report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1055.75" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-29" target="XIFVUQyBqXHINym3d4Wq-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-29" value="Create the Datasource connection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1048.265" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-31" value="Create the Semantic Model" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1048.265" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-25" target="XIFVUQyBqXHINym3d4Wq-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="1590" as="sourcePoint" />
+            <mxPoint x="1045.75" y="1589.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-9" value="Report editor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XIFVUQyBqXHINym3d4Wq-8">
+          <mxGeometry x="-0.1293" y="-2" relative="1" as="geometry">
+            <mxPoint x="15" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XIFVUQyBqXHINym3d4Wq-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="818.3000000000002" y="1530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-25" target="XIFVUQyBqXHINym3d4Wq-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-27" target="XIFVUQyBqXHINym3d4Wq-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-31" target="XIFVUQyBqXHINym3d4Wq-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-37" target="XIFVUQyBqXHINym3d4Wq-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-44" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XIFVUQyBqXHINym3d4Wq-43">
+          <mxGeometry x="-0.3614" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-37" value="Whether share datasource" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="748" y="710" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-42" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0.5%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3Bcurved%3D1%3Bdashed%3D1%3B%22%20edge%3D%221%22%20source%3D%223%22%20target%3D%227%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22Select%20one%20or%20multiple%20Schemas%26amp%3Bnbsp%3B%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22180%22%20y%3D%22780%22%20width%3D%22137.5%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3Bdashed%3D1%3B%22%20edge%3D%221%22%20source%3D%225%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-10%22%20y%3D%22810%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22Build%20a%20Sales%20Report%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-190%22%20y%3D%22780%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D1%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3BexitX%3D0.5%3BexitY%3D1%3BexitDx%3D0%3BexitDy%3D0%3Bcurved%3D1%3Bdashed%3D1%3B%22%20edge%3D%221%22%20source%3D%227%22%20target%3D%229%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20value%3D%22Make%20the%20relationship%20between%20multiple%20Schemas%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22880%22%20width%3D%22137.5%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D1%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3Bdashed%3D1%3B%22%20edge%3D%221%22%20source%3D%229%22%20target%3D%2213%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%229%22%20value%3D%22Select%20DataSets%20that%20filter%20by%20Schemas%20of%20DataModel%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22186.7500000000001%22%20y%3D%22970%22%20width%3D%22130.75%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2210%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3Bdashed%3D1%3B%22%20edge%3D%221%22%20source%3D%2211%22%20target%3D%223%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2211%22%20value%3D%22Make%20a%20DataModel%20that%20include%20multiple%20Schemas%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-9.990000000000009%22%20y%3D%22780%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2212%22%20style%3D%22edgeStyle%3DorthogonalEdgeStyle%3Brounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BentryX%3D1%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3Bdashed%3D1%3B%22%20edge%3D%221%22%20source%3D%2213%22%20target%3D%2214%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2213%22%20value%3D%22Build%20Report%20via%20PowerBI%20Editor%20online%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-9.99499999999989%22%20y%3D%22970%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2214%22%20value%3D%22Done%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-190%22%20y%3D%22970%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="757.5" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-600" y="752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-49" value="Share a Sales Report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="722" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-403.25" y="752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-55" value="Select target workspace, and whether share datasource with the report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-599.99" y="722" width="149.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-59" target="XIFVUQyBqXHINym3d4Wq-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-62" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XIFVUQyBqXHINym3d4Wq-61">
+          <mxGeometry x="-0.0119" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-59" target="XIFVUQyBqXHINym3d4Wq-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-333" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-76" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XIFVUQyBqXHINym3d4Wq-75">
+          <mxGeometry x="0.3097" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-59" value="Whether share datasource" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-403.25" y="712" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-60" value="Done(the report and Dataset will be share to target workspace)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="722" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-63" value="Share Report User Journey" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="640" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-64" target="XIFVUQyBqXHINym3d4Wq-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-64" value="the report will be share without Dataset" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-67" target="XIFVUQyBqXHINym3d4Wq-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-67" value="Report developer will find the report in target workspace" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-69" target="XIFVUQyBqXHINym3d4Wq-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-69" value="Report Developer need building datasets for the report that datasets is filter by report schemas&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-405.75" y="920" width="142.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIFVUQyBqXHINym3d4Wq-71" target="XIFVUQyBqXHINym3d4Wq-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-71" value="View Report" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-584.99" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIFVUQyBqXHINym3d4Wq-73" value="Done" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-772.5" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
